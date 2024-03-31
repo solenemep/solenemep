@@ -1,4 +1,4 @@
-### Full-Stack Web3 / Blockchain Developper / IT engineer
+### full-stack web3 / blockchain developper / IT engineer
 
 :computer: Solidity master +3 year of experience on various projects
 
