@@ -1,3 +1,4 @@
 ### Full-Stack Web3 / Blockchain Developper / IT engineer
 
-:computer: Solidity master +3 year of experience 
+:computer: Solidity master +3 year of experience on various projects
+DEFI - NFT - GAMES
