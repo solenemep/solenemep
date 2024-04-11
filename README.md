@@ -1,9 +1,11 @@
 ### blockchain developper / IT engineer
 
-:hea: Solidity master +3 year of experience on various projects
+🥇 Solidity master +3 year of experience
 
-DEFI - NFT - GAMES
+🥈 IT engineer graduated in 2016
 
-#check my CV [HERE](https://github.com/solenemep/solenemep/blob/main/CV.pdf)
+🥉 full stack web in spare time
 
-#check my last projects [HERE](https://github.com/solenemep/solenemep/blob/main/projects.pdf)
+**check my CV [HERE](https://github.com/solenemep/solenemep/blob/main/CV.pdf)**
+
+**check my last projects [HERE](https://github.com/solenemep/solenemep/blob/main/projects.pdf)**
