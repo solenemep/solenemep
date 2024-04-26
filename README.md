@@ -4,7 +4,7 @@
 
 🥈 IT engineer graduated in 2016
 
-🥉 full stack web in spare time
+🥉 full stack web at spare time
 
 **check my CV [HERE](https://github.com/solenemep/solenemep/blob/main/CV.pdf)**
 
