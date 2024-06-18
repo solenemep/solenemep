@@ -1,10 +1,6 @@
 ### blockchain developper / IT engineer
 
-🥇 Solidity master +3 year of experience
-
-🥈 IT engineer graduated in 2016
-
-🥉 full stack web at spare time
+Solidity master +3 year of experience
 
 **check my CV [HERE](https://github.com/solenemep/solenemep/blob/main/CV.pdf)**
 
