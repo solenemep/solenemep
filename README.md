@@ -1,4 +1,4 @@
-Experimented Solidity Developer
+Experienced Solidity Developer
 
 **check my CV [HERE](https://github.com/solenemep/solenemep/blob/main/CV.pdf)**
 
